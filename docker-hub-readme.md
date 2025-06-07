@@ -41,6 +41,11 @@ write from scratch.
           <img width="296px" src="https://raw.githubusercontent.com/PostgREST/postgrest/main/static/supabase.png">
         </a>
       </td>
+      <td align="center" valign="middle">
+        <a href="https://www.euronodes.com/postgrest" target="_blank">
+          <img width="296px" src="static/euronodes.svg">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
